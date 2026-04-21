@@ -1,4 +1,4 @@
-# mutithreading-preparation
+# multithreading-preparation
 
 Comprehensive interview preparation material for multithreading, concurrency, and parallel programming in modern C++ with POSIX/Linux examples.
 
